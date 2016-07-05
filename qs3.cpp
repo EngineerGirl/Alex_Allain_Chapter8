@@ -105,4 +105,4 @@ int main()
 ticTacToe();
 system ("pause");
 return 0;
-} // For a improved version of this code please look in Chapter 10 qs4.cpp
+} // For an improved version of this code please look in Chapter 10 qs4.cpp
